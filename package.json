@@ -1,0 +1,23 @@
+{
+  "name": "ub5ctf--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "prop-types": "15.8.1",
+    "@mui/material": "5.11.5",
+    "@mui/icons-material": "5.11.0",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
